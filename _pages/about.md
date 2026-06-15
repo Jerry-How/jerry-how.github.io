@@ -43,6 +43,8 @@ for Connected and Autonomous Vehicle, *IEEE Transactions on Vehicular Technology
 + IEEE Transactions on Mobile Computing
 + IEEE Transactions on Vehicular Technology
 + IEEE Network Magazine
++ IEEE Transactions on Communicaitons
++ IEEE Communication Letters
 
 
 # Activities
