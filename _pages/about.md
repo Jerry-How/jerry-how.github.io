@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
  
-I'm Jiawei Hou(侯甲慰), a fourth year Ph.D student from EIC, [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). I received my bachelor's degree from Hainan University in 2022. I am currently an exchanging student at A*STAR, [Institute for Infocomm Research (I2R)](https://www.a-star.edu.sg/i2r), Singapore, supervised by [Prof. Sumei Sun](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/sun-sumei) and [Prof. Gary Lee](https://scholar.google.com/citations?user=-k6WQI0AAAAJ&hl=en). My research interest includes and mobile edge computing 📱📱, vehicular networks ⭐⭐ and cooperative perception 🚗🚗.
+I'm Jiawei Hou(侯甲慰), a fourth year Ph.D student from EIC, [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). I received my bachelor's degree from [Hainan University](https://www.hainanu.edu.cn/) in 2022. I am currently an exchanging student at A*STAR, [Institute of Advanced Intelligence and Computing (IAIC)](https://asef.a-star.edu.sg/institutes/iaic), Singapore, supervised by [Prof. Sumei Sun](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/sun-sumei) and [Prof. Gary Lee](https://scholar.google.com/citations?user=-k6WQI0AAAAJ&hl=en). My research interest includes and mobile edge computing 📱📱, vehicular networks ⭐⭐ and cooperative perception 🚗🚗.
 
 My email is:  jerry_hou@hust.edu.cn.
 # Publications
