@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
  
-I'm Jiawei Hou(侯甲慰), a fourth year Ph.D student from EIC, [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). I am currently an exchanging student at A*STAR, [Institute for Infocomm Research (I2R)](https://www.a-star.edu.sg/i2r), Singapore, supervised by [Prof. Sumei Sun](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/sun-sumei) and [Prof. Gary Lee](https://scholar.google.com/citations?user=-k6WQI0AAAAJ&hl=en). My research interest includes and mobile edge computing 📱📱, vehicular networks ⭐⭐ and cooperative perception 🚗🚗.
+I'm Jiawei Hou(侯甲慰), a fourth year Ph.D student from EIC, [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). I received my bachelor's degree from Hainan University in 2022. I am currently an exchanging student at A*STAR, [Institute for Infocomm Research (I2R)](https://www.a-star.edu.sg/i2r), Singapore, supervised by [Prof. Sumei Sun](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/sun-sumei) and [Prof. Gary Lee](https://scholar.google.com/citations?user=-k6WQI0AAAAJ&hl=en). My research interest includes and mobile edge computing 📱📱, vehicular networks ⭐⭐ and cooperative perception 🚗🚗.
 
 My email is:  jerry_hou@hust.edu.cn.
 # Publications
@@ -36,15 +36,19 @@ for Connected and Autonomous Vehicle, *IEEE Transactions on Vehicular Technology
 + International Conference on Cloud and Network Computing (ICCNC)
 + International Conference on Wireless Communications and Signal Processing (WCSP)
 + IEEE/CIC International Conference on Communications in China (ICCC)
++ IEEE International Conference on Parallel and Distributed Systems (ICPADS)
 
 ## Journal
 + IEEE Tracsactions on Intelligent Transportation Systems
++ IEEE Transactions on Vehicular Technology
++ IEEE Transactions on Intelligent Vehicles
 + IEEE Internet of Things Journal
 + IEEE Transactions on Mobile Computing
-+ IEEE Transactions on Vehicular Technology
 + IEEE Network Magazine
 + IEEE Transactions on Communicaitons
 + IEEE Communication Letters
++ IEEE Journal of Selected Topics in Electromagnetics, Antennas and Propagation
++ Scientific Reports
 
 
 # Activities
