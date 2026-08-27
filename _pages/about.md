@@ -82,6 +82,7 @@ My email is: jerry\_hou@hust.edu.cn.
 + Swimming 🏊
 + Skiing 🏂
 + Black Belt in Taekwondo
++ Dota2 (rank 4000 in SEA) <img src="/images/data2.svg" alt="Dota2" style="width: 1em; height: 1em; vertical-align: -0.15em;">
 
 
 <a href="http://s11.flagcounter.com/more/qaO"><img src="https://s11.flagcounter.com/count2/qaO/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
